@@ -1,0 +1,21 @@
+                                ------  Beginners  ------
+1. opening and closing tags.
+2. echo, print_r(), var_dump() functions.
+3. loops: for, while, do-while, and foreach
+4. conditionals: if, if-else, if-else-if and switch statement.
+5. PHP super globals: $_SESSION, $_COOKIE, $_REQUEST, $_GET, $_POST and $_SERVER.(there are others but these are the most important).
+6. require and include.
+7. string functions.
+8. PDO for database connection (mysqli is not used): connecting to mysql, exec() method, prepared statements with prepare() and execute() methods, and query() method.
+9. OOP: classes, objects, interfaces, php magic methods: __construct() (there are many but one is enough for now).
+10. file handling.
+
+                                --------- Advanced ---------
+11. Design patterns: Model View and Controller (most important), Singleton (easy).
+12. Introduce yourself to regular expressions.
+13. Cross site request forgery CSRF and cross site scripting XSS.
+14. Always use prepared statements to prevent SQL injection.
+
+PDO
+MVC, singleton, dependency injection.
+

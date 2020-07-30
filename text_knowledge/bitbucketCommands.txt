@@ -1,0 +1,17 @@
+git checkout <branch>
+  
+// <branch> is the name of the branch es: "git checkout develop "
+// Now make a pull
+  
+git add .
+git commit //for commit in new file
+git commit -m "removed admin_assets folder from public directory"
+git pull
+git push -u origin master
+
+git config user.name "Waleed Ali" // change user name for commenting 		respositry
+git config user.email "waleedkb15@gmail.com" // change email for 		commenting 
+git remote add origin //change origin 
+
+
+
